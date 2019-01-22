@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![meme](https://blog.marcduiker.nl/assets/2015/10/06/successkid-blog.jpg)
